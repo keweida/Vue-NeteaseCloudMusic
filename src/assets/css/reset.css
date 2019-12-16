@@ -1,0 +1,51 @@
+html,
+body,
+div,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+ol,
+li,
+dl,
+dd,
+dt,
+i,
+a,
+b,
+strong,
+input,
+button,
+span {
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+img {
+  border: none;
+  vertical-align: middle;
+}
+
+input,
+button {
+  border: none;
+  outline: none;
+}
