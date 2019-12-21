@@ -25,9 +25,8 @@ span {
   margin: 0;
 }
 
-html,
 body {
-  height: 100%;
+  font-size: 28px;
 }
 
 li {
@@ -37,6 +36,10 @@ li {
 a {
   color: #000;
   text-decoration: none;
+}
+
+i {
+  font-style: normal;
 }
 
 img {
